@@ -1,4 +1,5 @@
-# World_Weather_Analysis - The main purpose of PlanMyTrip is to collect and analyse weather data for various cities worldwide.So that they can recommend ideal hotels and plan a itierinary for 4 cities to visit as per the client's weather preferences.
+# World_Weather_Analysis - 
+The main purpose of PlanMyTrip is to collect and analyse weather data for various cities worldwide.So that they can recommend ideal hotels and plan a itierinary for 4 cities to visit as per the client's weather preferences.
 
 ## Resources
 
