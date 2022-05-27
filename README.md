@@ -3,7 +3,7 @@ The main purpose of PlanMyTrip is to collect and analyse weather data for variou
 
 ## Resources
 
-##Data Source - Starter codes for the deliverables. Software - Python 3.8.5, Jupiter Notebook 6.1.4
+Data Source - Starter codes for the deliverables. Software - Python 3.8.5, Jupiter Notebook 6.1.4
 
 # Summary
 ## Deliverable 1 - Retrieve Weather Data 
